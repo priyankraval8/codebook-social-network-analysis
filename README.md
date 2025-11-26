@@ -39,21 +39,6 @@ If Amit & Priya like “AI World”, recommend “Data Science Daily”.
 
 ---
 
-## 📁 Folder Structure
-
-codebook-social-network-analysis/
-├── notebooks/
-│ ├── 01_introduction.ipynb
-│ ├── 02_data_cleaning.ipynb
-│ ├── 03_people_you_may_know.ipynb
-│ └── 04_pages_you_might_like.ipynb
-├── data/
-│ ├── codebook_raw.json
-│ └── codebook_cleaned.json
-├── README.md
-
----
-
 ## 🧪 How to Run  
 Just open the notebooks in Jupyter Notebook:
 
