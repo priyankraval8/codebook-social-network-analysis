@@ -1,5 +1,3 @@
-## **Coders Of Delhi**
-
 # CodeBook — Social Network Data Analysis Project (Pure Python)
 
 This project is part of my Data Science Journey. 
